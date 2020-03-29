@@ -1,0 +1,1 @@
+ 2phpXJhr0app/Http/Controllers/Auth/RegisterController.php

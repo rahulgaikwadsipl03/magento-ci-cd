@@ -1,0 +1,1 @@
+ 2phpX)hr7app/Http/Controllers/Auth/ConfirmPasswordController.php

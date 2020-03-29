@@ -1,0 +1,1 @@
+ 2phpXhr5app/Http/Controllers/Auth/ResetPasswordController.php

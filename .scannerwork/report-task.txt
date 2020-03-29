@@ -1,0 +1,6 @@
+projectKey=laravel-s3
+serverUrl=http://localhost:9000
+serverVersion=7.9.1.27448
+dashboardUrl=http://localhost:9000/dashboard?id=laravel-s3
+ceTaskId=AXEn0y5w6GLlAAAts2gd
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXEn0y5w6GLlAAAts2gd
